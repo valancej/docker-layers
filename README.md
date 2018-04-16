@@ -1,2 +1,1 @@
-# docker-layers
-Docker layers
+# What Docker layers mean
